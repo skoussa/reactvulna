@@ -20,6 +20,7 @@ Run `npm start` for a dev server. Navigate to `http://localhost:4200/`. The app 
   
 Or
 
+
 Run `npm run build` to build the project. Set up your favourite HTTP server so that a visitor to your site is served `index.html`, and requests to static paths like `/static/js/main.<hash>.js` are served with the contents of the `/static/js/main.<hash>.js` file.    
 
 <a name="Backend"></a>
